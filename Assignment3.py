@@ -1,7 +1,7 @@
 from __future__ import print_function, division
 
 import urllib2
-import datetime
+import csv
 import logging
 import argparse
 
