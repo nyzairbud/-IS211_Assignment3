@@ -1,5 +1,3 @@
-from __future__ import print_function, division
-
 import urllib2
 import csv
 import logging
